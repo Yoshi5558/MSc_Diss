@@ -6,7 +6,7 @@ Time Spent: About 5-6 weeks on this code, but I was learning on the job.
 
 Outputs from this project would be injested into CURA to slice 3D prints, then used my own hardware to compare my models and reality. 
 
-Also has a basic visualiser using the MayAVI package, which I was new to, but turned out well. (Im a seasoned MatPlotLibber)
+Also has a basic visualiser using the MayAVI package, which I was new to, but turned out well.
 
 
 
